@@ -51,7 +51,7 @@ namespace AppClient.Controllers
 
         }
         [HttpPost]
-        public async Task<IActionResult> Create(Book book)
+        public async Task<IActionResult> Create(CreateBook book)
         {
             var bookJson = JsonSerializer.Serialize(book);
             var content = new StringContent(bookJson, Encoding.UTF8, "application/json");

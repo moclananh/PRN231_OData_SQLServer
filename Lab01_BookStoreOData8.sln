@@ -8,6 +8,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClient", "AppClient\AppClient.csproj", "{91085E88-9194-4C49-999D-441C8B232026}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.BE", "1.BE", "{A1CB0FA4-F079-42EB-888B-659E6C887EE3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.FE", "2.FE", "{D8DBF20C-6FDD-4028-8D5A-D5E541A06A20}"
 EndProject

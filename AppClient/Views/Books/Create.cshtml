@@ -9,38 +9,39 @@
 <form asp-action="Create">
     <div class="form-group">
         <label asp-for="Title" class="control-label"></label>
-        <input asp-for="Title" class="form-control" />
+        <input asp-for="Title" class="form-control" required/>
     </div>
     <div class="form-group">
         <label asp-for="Author" class="control-label"></label>
-        <input asp-for="Author" class="form-control" />
+        <input asp-for="Author" class="form-control" required />
     </div>
     <div class="form-group">
         <label asp-for="ISBN" class="control-label"></label>
-        <input asp-for="ISBN" class="form-control" />
+        <input asp-for="ISBN" class="form-control" required />
     </div>
     <div class="form-group">
         <label asp-for="Price" class="control-label"></label>
-        <input asp-for="Price" class="form-control" />
+        <input asp-for="Price" class="form-control" required />
     </div>
     <div class="form-group">
         <label class="control-label">PressName</label>
-        <input asp-for="Press.Name" class="form-control" />
+        <input asp-for="Press.Name" class="form-control" required />
     </div>
     <div class="form-group">
         <label asp-for="Press.category" class="control-label"></label>
-        <input asp-for="Press.category" class="form-control" />
+        <input asp-for="Press.category" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <b style="color:red">Category must is: [Book, 1, 2]</b>
     </div>
     <div class="form-group">
         <label asp-for="Location.City" class="control-label"></label>
-        <input asp-for="Location.City" class="form-control" />
+        <input asp-for="Location.City" class="form-control" required />
     </div>
     <div class="form-group">
         <label asp-for="Location.Street" class="control-label"></label>
-        <input asp-for="Location.Street" class="form-control" />
+        <input asp-for="Location.Street" class="form-control" required />
     </div>
-
-
 
     <div class="form-group">
         <input type="submit" value="Create" class="btn btn-primary" />

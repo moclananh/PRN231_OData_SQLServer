@@ -20,7 +20,7 @@ namespace BookStoreAPI.Models
         public DbSet<Address> Addresses { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Book>().Property(b => b.Price).HasPrecision(18,2);
+            modelBuilder.Entity<Book>();
         }
 
 

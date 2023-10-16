@@ -10,7 +10,9 @@ namespace BookStoreAPI.Models
     {
         [Key]
         public int Id { get; set; }
+        [Required]
         public string City { get; set; }
+        [Required]
         public string Street { get; set; }
     }
 }
