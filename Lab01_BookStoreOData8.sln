@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStoreAPI", "BookStoreAPI\BookStoreAPI.csproj", "{69DC1751-1C85-466F-984F-B6C11716922D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppClient", "AppClient\AppClient.csproj", "{91085E88-9194-4C49-999D-441C8B232026}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.BE", "1.BE", "{A1CB0FA4-F079-42EB-888B-659E6C887EE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.FE", "2.FE", "{D8DBF20C-6FDD-4028-8D5A-D5E541A06A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DC1751-1C85-466F-984F-B6C11716922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DC1751-1C85-466F-984F-B6C11716922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DC1751-1C85-466F-984F-B6C11716922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DC1751-1C85-466F-984F-B6C11716922D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91085E88-9194-4C49-999D-441C8B232026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91085E88-9194-4C49-999D-441C8B232026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91085E88-9194-4C49-999D-441C8B232026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91085E88-9194-4C49-999D-441C8B232026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69DC1751-1C85-466F-984F-B6C11716922D} = {A1CB0FA4-F079-42EB-888B-659E6C887EE3}
+		{91085E88-9194-4C49-999D-441C8B232026} = {D8DBF20C-6FDD-4028-8D5A-D5E541A06A20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECFC3AF-5D57-4DE4-9BEC-4163A0CC2870}
+	EndGlobalSection
+EndGlobal

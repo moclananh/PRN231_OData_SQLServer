@@ -1,0 +1,2 @@
+- Backend cua a VietDB, cua MLA code bi loi create
+- Full CRUD
