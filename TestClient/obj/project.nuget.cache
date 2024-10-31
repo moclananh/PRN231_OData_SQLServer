@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EPm11qjLCSPAF3rZd8QxWMIlp8hegQtQbEs8fnxi4ljwN7MQYohIsZ9uAt8OYmr50/bW9LZO5dfdqdFCz+LIw==",
+  "success": true,
+  "projectFilePath": "D:\\FU_Hub\\FA23_Excellent\\PRN231\\Asm_Lab\\prn231_lab03_odata_usingdb\\TestClient\\TestClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristino\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Kristino\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kristino\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kristino\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

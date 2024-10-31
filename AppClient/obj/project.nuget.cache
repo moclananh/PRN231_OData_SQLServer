@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USjzIoLH6QGtl23EVdFXmciS2O0kcy/CP/WksQ6POzf76RFi5neDupWMC6JdJ8Xxq98tvPiLr8WOiFXQ5IKwxg==",
+  "dgSpecHash": "jM5O9L3CQ+E9sE+zh9iKai58J0OjdJEbdGo6/YttV98cQOOvbIg8b2KEK6LX+zrptwtnFtK83DA23UjyqbZzCQ==",
   "success": true,
-  "projectFilePath": "D:\\FU_Hub\\FA23\\PRN231\\Lab\\VietDB\\Lab01_BookStoreOData8\\Lab01_BookStoreOData8\\AppClient\\AppClient.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Kristino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Kristino\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Kristino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Kristino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\FU_Hub\\FA23_Excellent\\PRN231\\Asm_Lab\\prn231_lab03_odata_usingdb\\AppClient\\AppClient.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

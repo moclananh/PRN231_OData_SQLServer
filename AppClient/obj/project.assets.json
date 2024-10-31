@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FU_Hub\\FA23\\PRN231\\Lab\\VietDB\\Lab01_BookStoreOData8\\Lab01_BookStoreOData8\\AppClient\\AppClient.csproj",
+      "projectUniqueName": "D:\\FU_Hub\\FA23_Excellent\\PRN231\\Asm_Lab\\prn231_lab03_odata_usingdb\\AppClient\\AppClient.csproj",
       "projectName": "AppClient",
-      "projectPath": "D:\\FU_Hub\\FA23\\PRN231\\Lab\\VietDB\\Lab01_BookStoreOData8\\Lab01_BookStoreOData8\\AppClient\\AppClient.csproj",
+      "projectPath": "D:\\FU_Hub\\FA23_Excellent\\PRN231\\Asm_Lab\\prn231_lab03_odata_usingdb\\AppClient\\AppClient.csproj",
       "packagesPath": "C:\\Users\\Kristino\\.nuget\\packages\\",
-      "outputPath": "D:\\FU_Hub\\FA23\\PRN231\\Lab\\VietDB\\Lab01_BookStoreOData8\\Lab01_BookStoreOData8\\AppClient\\obj\\",
+      "outputPath": "D:\\FU_Hub\\FA23_Excellent\\PRN231\\Asm_Lab\\prn231_lab03_odata_usingdb\\AppClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,24 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -88,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

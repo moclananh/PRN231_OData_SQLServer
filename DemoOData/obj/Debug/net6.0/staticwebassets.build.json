@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8yUGSIkoWp8f8JVbJpZJOEt/G+xgWASMuBVqYdI7RKM=",
+  "Source": "DemoOData",
+  "BasePath": "_content/DemoOData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
